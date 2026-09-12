@@ -1,19 +1,7 @@
-<!--
-=============================================================================
-PRO FLUTTER DEVELOPER GITHUB PROFILE README
-=============================================================================
-Instructions for Vachaspati Mishra:
-1. Go to GitHub: https://github.com/new
-2. Create a repository named exactly: vachaspatimishraa (matching your username)
-3. Ensure it is marked as PUBLIC and check "Add a README file"
-4. Copy and paste everything below this comment block into that repository's README.md!
-=============================================================================
--->
-
 <div align="center">
 
 # Hi there, I'm Vachaspati Mishra 👋
-### Senior Flutter Engineer • Mobile Systems Architect • Clean Code Craftsman
+### Flutter Engineer • Mobile Systems Architect • Clean Code Craftsman
 
 <p align="center">
   <a href="https://flutter.dev">
